@@ -22,8 +22,8 @@ const Orliluq = {
         },
         backEnd: ["Python"]
                  ["Java"]
-                 [Node_js]
-                 [SQL],
+                 ["Node_js"]
+                 ["SQL"],
     }
 };
 
