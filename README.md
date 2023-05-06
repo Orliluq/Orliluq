@@ -31,7 +31,7 @@ const Orliluq = {
 
 ## 🚀 About Me:
     I'm Full Stack Web Developer
-  Administradora y gerencio una compañía de Retail en mi país.En la comunidad Tech descubrí la motivación que no tenía 
+  Soy Administradora y gerencio una compañía de Retail en mi país.En la comunidad Tech descubrí la motivación que no tenía 
 en mi profesión y decidí iniciar mi camino en el 2020 🤞 Me encanta programar 👩‍💻 y encontrarle soluciones viables a 
 los problemas que se presentan día a día en el código.
 Actualmente, estoy estudiando diferentes lenguajes y framework, mi fortaleza: JavaScript, React, Redux; nivel básico y 
