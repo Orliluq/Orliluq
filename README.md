@@ -20,13 +20,19 @@ const Orliluq = {
             js: ["React"]
                 ["Redux"],
         },
-        backEnd: ["Python"]
-                 ["Java"]
-                 ["Node_js"]
-                 ["SQL"],
-    }
-};
+        backEnd: ["Java"]
+                 ["Spring Boot"]
+                 ["Node.js"]
+                 ["Express.js"]
+                 ["Python"],
+         },
+         bDD:    ["SQL"]
+                 ["Postgress"]
+                 ["MySQL"],
+                    
+         },
 
+    };
 ```
 
 ## 🚀 About Me:
