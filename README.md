@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
 
-[![224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f](https://github.com/Orliluq/Orliluq/assets/122529721/e6c2f604-28df-4fe3-9a93-725cd783fb07)](https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png)
+[![224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f](https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png)
 
 
 
