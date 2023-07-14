@@ -1,6 +1,7 @@
 ** Hola 👋 soy Orli **
 
-## Full Stack Web Developer JavaScript, React, Redux, Express, PostgreSQL, JAVA, Python, Spring Boot, MySQL.
+## Full Stack Web Developer 
+### JavaScript, React, Redux, Express, PostgreSQL, JAVA, Python, Spring Boot, MySQL.
 
 
 
