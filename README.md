@@ -97,7 +97,6 @@ organizacional. ✔😉
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=dark&background=000000)
 
-![Profile views](https://gpvc.arturio.dev/orliluq)
 
 
 ** Hecho con 💜 { "OrliDev" } **
