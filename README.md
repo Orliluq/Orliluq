@@ -8,9 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
 
-<div align="center">
-  ![logo svg](https://github.com/Orliluq/Orliluq/assets/122529721/e5ca80b1-d121-42e6-8284-8f982b112dc3)
-</div>
+![logo svg](https://github.com/Orliluq/Orliluq/assets/122529721/796d83fb-1059-487f-8fb8-48bc0e19ed0e)
+
 
 
 
