@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
 <div align="center">
-  <a href="![224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f](https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png)">
+  <a href="https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
