@@ -7,10 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
+
 <div align="center">
-  <a href="https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  ![logo svg](https://github.com/Orliluq/Orliluq/assets/122529721/e5ca80b1-d121-42e6-8284-8f982b112dc3)
+</div>
 
 
 
