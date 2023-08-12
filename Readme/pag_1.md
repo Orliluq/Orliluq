@@ -7,7 +7,8 @@
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
 
-![Orli Stickers](https://user-images.githubusercontent.com/122529721/224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f.png)
+![Orli Stickers](![orli-avatar](https://github.com/Orliluq/Orliluq/assets/122529721/cf5e7cd5-f3a1-4bb3-ada6-4bf7c2733031)
+)
 
 
 ```javascript
