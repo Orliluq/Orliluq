@@ -7,8 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=orliluq&color=blue)
 
-<div style="text-align:center;">
-![224508198-d3ea3c52-7bee-4790-a50f-876a8fa5288f (1)](<img src="https://github.com/Orliluq/Orliluq/assets/122529721/37d8cd8d-1c80-4138-940e-360d689c6f2c" width="50%" height="50%">)
+<div style="text-align:center;"> ![](<img src="https://github.com/Orliluq/Orliluq/assets/122529721/37d8cd8d-1c80-4138-940e-360d689c6f2c" width="50%" height="50%">)
 </div>
 
 
