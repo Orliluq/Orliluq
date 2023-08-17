@@ -23,7 +23,12 @@ const Orliluq = {
             html: []
             css: []
             js: ["React"]
-                ["Redux"],
+                ["React Native"]
+                ["Redux"]
+                ["Redux Toolkit"]
+                ["Tailwind CSS"]
+                ["Next.js"]
+                ["Typescript"],
         },
         backEnd: ["Node.js"]
                  ["Express.js"]
