@@ -28,6 +28,7 @@ const Orliluq = {
                 ["Redux Toolkit"]
                 ["Tailwind CSS"]
                 ["Next.js"]
+                ["Bootstrap"]
                 ["Typescript"],
         },
         backEnd: ["Node.js"]
@@ -36,7 +37,8 @@ const Orliluq = {
                  ["Spring Boot"] 
                  ["Python"],
          },
-         bDD:    ["PostgreSQL"]
+         bDD:    ["Sequelize"]
+                 ["PostgreSQL"]
                  ["MySQL"],
                       
          },
@@ -49,8 +51,8 @@ const Orliluq = {
   Soy Administradora y gerencio una compañía de Retail en mi país. En la comunidad Tech descubrí la motivación que no tenía 
 en mi profesión y decidí iniciar mi camino en el 2021 🤞 Me encanta programar 👩‍💻 y encontrarle soluciones viables a 
 los problemas que se presentan día a día en el código.
-Actualmente, estoy estudiando diferentes lenguajes y framework, mi fortaleza: JavaScript, React, Redux, Express.js, Node.js, SQL, PostgreSQL y estoy
-aprendiendo Java, Spring Boot, MySQL, Python, entre otros. Me es fácil trabajar en equipo, la comunicación efectiva y la disciplina 
+Actualmente, estoy estudiando diferentes lenguajes y framework, mi fortaleza: JavaScript, React, React Native, Bootstrap, Tailwind CSS, Redux, Redux Toolkit, Express.js, Next.Js, Node.js, Sequelize, SQL, PostgreSQL y estoy
+aprendiendo Typerscript, Java, Spring Boot, MySQL, Python, entre otros. Me es fácil trabajar en equipo, la comunicación efectiva y la disciplina 
 organizacional. ✔😉
 
 
