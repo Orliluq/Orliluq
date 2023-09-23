@@ -1,7 +1,7 @@
 ** Hola 👋 soy Orli **
 
 ## Full Stack Web Developer 
-### Full Stack Developer | JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Java | Spring Boot | Python | MySQL | Degree in Administration
+### JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Java | Spring Boot | Python | MySQL | Degree in Administration
 
 
 
