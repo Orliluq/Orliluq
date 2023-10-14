@@ -51,7 +51,7 @@ const Orliluq = {
   Soy Administradora y gerencio una compañía de Retail en mi país. En la comunidad Tech descubrí la motivación que no tenía 
 en mi profesión y decidí iniciar mi camino en el 2021 🤞 Me encanta programar 👩‍💻 y encontrarle soluciones viables a 
 los problemas que se presentan día a día en el código.
-Actualmente, estoy estudiando diferentes lenguajes y framework, mi fortaleza: JavaScript, React, React Native, Bootstrap, Tailwind CSS, Redux, Redux Toolkit, Express.js, Next.Js, Node.js, Sequelize, SQL, PostgreSQL y estoy
+Actualmente, estoy utilizando diferentes lenguajes y framework, mi fortaleza: JavaScript, React, React Native, Bootstrap, Tailwind CSS, Redux, Redux Toolkit, Express.js, Next.Js, Node.js, Sequelize, SQL, PostgreSQL y estoy
 aprendiendo Typerscript, Java, Spring Boot, MySQL, Python, entre otros. Me es fácil trabajar en equipo, la comunicación efectiva y la disciplina 
 organizacional. ✔😉
 
@@ -59,7 +59,7 @@ organizacional. ✔😉
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
 - 🔭 Estoy trabajando en DLCA 💼 
-- 🌱 Estoy estudiando en Soy Henry ✍ 
+- 🌱 Estoy estudiando y emprendiendo con nuevos desafíos ✍ 
 - 👯 Quiero colaborar con everyone 👍 
 - 🤔 Necesito la ayuda de la tech Comunity ✌ 
 - 😄 Pronombres: she / her ... 🧙‍♀️ 
