@@ -1,7 +1,7 @@
 ** Hola 👋 soy Orli **
 
 ## Full Stack Web Developer 
-### JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Java | Spring Boot | Python | MySQL | Degree in Administration
+### JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Zustand | Java | Spring Boot | Python | MySQL | Degree in Administration
 
 
 
@@ -29,6 +29,7 @@ const Orliluq = {
                 ["Tailwind CSS"]
                 ["Next.js"]
                 ["Bootstrap"]
+                ["Zustand"]
                 ["Typescript"],
         },
         backEnd: ["Node.js"]
@@ -88,7 +89,25 @@ organizacional. ✔😉
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 🤝 Connect with me:
@@ -102,6 +121,8 @@ organizacional. ✔😉
 
 
 ## 👩‍💻 Others:
+
+![Gists List Card ](https://gists-readme.yizack.com/api?user={orliluq})
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true)
 
