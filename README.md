@@ -97,7 +97,7 @@ organizacional. ✔😉
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+![PostgrSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -109,6 +109,8 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+
 
 ## 🤝 Connect with me:
 
@@ -117,12 +119,11 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Orli#4493)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/orlidevs)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/orlidevs)
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 
 ## 👩‍💻 Others:
 
-![Gists List Card ](https://gists-readme.yizack.com/api?user={orliluq})
+![Gists List Card](https://gists-readme.yizack.com/api?user={orliluq})
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true)
 
