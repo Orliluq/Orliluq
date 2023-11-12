@@ -115,7 +115,7 @@ organizational. ✔😉
 
 ## 👩‍💻 Others:
 
-![Gists List Card](https://gists-readme.yizack.com/api?user={orliluq}&theme=tokyonight)
+![Last tweet](https://gtce.itsvg.in/api?username=orlidun&theme=material-palenight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight)
 
