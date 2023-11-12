@@ -1,6 +1,10 @@
-** Hola 👋 soy Orli **
+** <!-- title name -->
+<p align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&pause=1000&color=9924F7&repeat=false&random=true&width=435&lines=Hola+%F0%9F%91%8B+soy+Orli" alt="Typing SVG" /></a><br> **
 
-## Full Stack Web Developer 
+## <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=AE22F7&random=false&width=435&lines=Full+Stack+Web+Developer+;console.log('Girl+Programming')" alt="Typing SVG" /></a>
+</p>
 ### JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Zustand | Java | Spring Boot | Python | MySQL | Degree in Administration
 
 
