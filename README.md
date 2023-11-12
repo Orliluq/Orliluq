@@ -115,13 +115,13 @@ organizational. ✔😉
 
 ## 👩‍💻 Others:
 
-![Gists List Card](https://gists-readme.yizack.com/api?user={orliluq})
+![Gists List Card](https://gists-readme.yizack.com/api?user=orliluq&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=dark&background=000000)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight)
 
 ![GitHub profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight) 
 
