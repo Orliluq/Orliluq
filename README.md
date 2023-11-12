@@ -91,53 +91,17 @@ organizational. ✔😉
 [![Github  All  Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
 
 
-  
-##  Technical Skills:
 <details open> 
-  <summary><h2>🧩 Languages & Tools</h2></summary>
+  <summary><h2>🧩 Technical Skills</h2></summary>
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,redux,reactnative,replit,reduxtoolkit,mysql,bootstrap,express,json,python,postgresql,jest,sequelize,postman,git,github,react,tailwind,html,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,bash,spring,figma,mysql,bootstrap,py,postgres,jest,sequelize,postman,git,github,php,react,tailwind,vite,html,gitlab,css&perline=9" />
   </a>
 </p>
 
 
 </details>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-![PostgrSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 
 ## 🤝 Connect with me:
@@ -159,6 +123,7 @@ organizational. ✔😉
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=dark&background=000000)
 
+![GitHub profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight) 
 
 
 ** Hecho con 💜 { "OrliDev" } **
