@@ -54,7 +54,7 @@ const Orliluq = {
 ```
 
 ## 🚀 About Me:
-    I'm Full Stack Web Developer
+    Soy Desarrolladora Web Full Stack
   Soy Administradora y gerencio una compañía de Retail en mi país. En la comunidad Tech descubrí la motivación que no tenía 
 en mi profesión y decidí iniciar mi camino en el 2021 🤞 Me encanta programar 👩‍💻 y encontrarle soluciones viables a 
 los problemas que se presentan día a día en el código.
@@ -62,7 +62,7 @@ Actualmente, estoy utilizando diferentes lenguajes y framework, mi fortaleza: Ja
 aprendiendo Typerscript, Java, Spring Boot, MySQL, PHP, Python, entre otros. Me es fácil trabajar en equipo, la comunicación efectiva y la disciplina 
 organizacional. ✔😉
 
-    Soy Desarrolladora Web Full Stack
+    I'm Full Stack Web Developer
   I am an Administrator and manage a Retail company in my country. In the Tech community I discovered the motivation that I didn't have
 in my profession and decided to start my path in 2021 🤞 I love programming 👩‍💻 and finding viable solutions to
 the problems that arise every day in the code.
