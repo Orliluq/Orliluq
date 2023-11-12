@@ -96,7 +96,7 @@ organizational. ✔😉
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,bash,spring,figma,mysql,bootstrap,py,postgres,jest,sequelize,postman,git,github,php,react,tailwind,vite,html,gitlab,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,bash,spring,figma,mysql,bootstrap,py,postgres,jest,sequelize,postman,git,github,php,react,tailwind,html,gitlab,css&perline=9" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ organizational. ✔😉
 
 ## 👩‍💻 Others:
 
-![Last tweet](https://gtce.itsvg.in/api?username=orlidun&theme=material-palenight)
+![Last tweet](https://gtce.itsvg.in/api?username=Orlidun&theme=material-palenight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight)
 
