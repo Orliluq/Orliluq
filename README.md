@@ -93,7 +93,7 @@ organizational. ✔😉
 
 
 <details open> 
-  <summary><h2>🧩 Technical Skills</h2></summary>
+  <summary><h2>🧩 Technical Skills:</h2></summary>
     
 <p align="center">
   <a href="https://skillicons.dev">
