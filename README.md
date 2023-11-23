@@ -117,7 +117,7 @@ organizational. ✔😉
 
 ## 👩‍💻 Others:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight" /></div> 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight)
 
