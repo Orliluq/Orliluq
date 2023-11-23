@@ -113,7 +113,7 @@ organizational. ✔😉
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/orlidevs)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/orlidevs)
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" /></div> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" /></div> 
 
 ## 👩‍💻 Others:
 
