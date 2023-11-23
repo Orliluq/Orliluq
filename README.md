@@ -78,9 +78,9 @@ organizational. ✔😉
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
 - 🔭 Estoy trabajando en DLCA 💼 
-- 🌱 Estoy estudiando y emprendiendo con nuevos desafíos ✍ 
+- 🌱 Estoy estudiando y emprendiendo con nuevos desafíos y retos ✍ 
 - 👯 Quiero colaborar con everyone 👍 
-- 🤔 Necesito la ayuda de la tech Comunity ✌ 
+- 🤔 Busco conectar con la tech Comunity ✌ 
 - 😄 Pronombres: she / her ... 🧙‍♀️ 
 - ⚡ Dato curioso: i love my red hair 😁👩‍🦰 
 - 📫 Cómo contactarme: Abajo estan mis coordenadas 👇
