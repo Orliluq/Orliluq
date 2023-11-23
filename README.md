@@ -89,7 +89,7 @@ organizational. ✔😉
 
 ## ✔ GitHub (All Releases):
 
-[![Github  All  Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
+<div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" /></div> 
 
 
 <details open> 
@@ -119,11 +119,11 @@ organizational. ✔😉
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight" /></div> 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight" /></div> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight" /></div> 
 
-![GitHub profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight) 
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight" /></div> 
 
 
 ** Hecho con 💜 { "OrliDev" } **
