@@ -93,7 +93,7 @@ organizational. ✔😉
 
 
 <details open> 
-  <summary><h2>🧩 Technical Skills:</h2></summary>
+  <summary><h2><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Technical Skills:</h2></summary> 
     
 <p align="center">
   <a href="https://skillicons.dev">
@@ -124,6 +124,10 @@ organizational. ✔😉
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight" /></div> 
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight" /></div> 
+</br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 
 
 ** Hecho con 💜 { "OrliDev" } **
