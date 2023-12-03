@@ -119,7 +119,7 @@ the problems that arise every day in the code. ✔😉
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight" /></div> 
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orliluq&theme=tokyonight" /></div> 
-</br>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
