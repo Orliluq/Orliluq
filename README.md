@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&pause=1000&color=9924F7&center=true&repeat=false&random=true&width=435&lines=Hola+%F0%9F%91%8B+soy+Orli" alt="Typing SVG" /></a><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&pause=1000&color=F787F4&center=true&repeat=false&random=true&width=435&lines=Full+Stack+Web+Developer;console.log('Girl+Programming')"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&pause=1000&color=D362F7&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%92%BC+Degree+in+Administration;console.log('Girl+Programming')"/><br>
 </p>
         
 ### 💼 JavaSript | React | React Native | Next.Js | Redux | Node.Js | Express.Js | Sequelize | PostgreSQL | Typescript | Tailwind CSS | Bootstrap | Zustand | Jest | Java | Spring Boot | Python | MySQL | PHP | Degree in Administration
