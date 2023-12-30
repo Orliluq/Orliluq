@@ -33,8 +33,13 @@ const Orliluq = {
                 ["Redux Toolkit"]
                 ["Tailwind CSS"]
                 ["Next.js"]
+                ["Sass"]
                 ["Bootstrap"]
                 ["Zustand"]
+                ["Angular"]
+                ["Vue"]
+                ["Astro"]
+                ["Nuxtjs"]
                 ["Typescript"],
         },
         backEnd: ["Node.js"]
@@ -43,6 +48,8 @@ const Orliluq = {
                  ["Spring Boot"]
                  ["PHP"]
                  ["Jest"]
+                 ["Swagger"]
+                 ["NestJs"]
                  ["Python"],
          },
          bDD:    ["Sequelize"]
@@ -92,7 +99,7 @@ the challenges that arise every day in the code. ✔😉
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,bash,spring,figma,mysql,bootstrap,py,postgres,jest,sequelize,postman,git,github,php,react,tailwind,html,gitlab,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,css&perline=9" />
   </a>
 </p>
 
