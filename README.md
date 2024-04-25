@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Orliluq/Orliluq/assets/122529721/37d8cd8d-1c80-4138-940e-360d689c6f2c" width="50%" height="50%" style="margin:auto;">
+  <img src="https://github.com/Orliluq/Orliluq/assets/122529721/10ede74d-8354-4652-814b-abfbd65385d9" width="50%" height="50%" style="margin:auto;">
 </p>
 
 
