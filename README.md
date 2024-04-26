@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&pause=1000&color=C25DF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%92%BC+Degree+in+Administration;console.log('Girl+Programming')"/></a><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&pause=1000&color=C25DF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BC+Degree+in+Administration;console.log('Girl+Programming')"/></a><br>
 </p>
 
 
