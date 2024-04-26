@@ -28,7 +28,6 @@ const Orliluq = {
             html: []
             css: []
             js: ["React"]
-                ["React Native"]
                 ["Redux"]
                 ["Redux Toolkit"]
                 ["Tailwind CSS"]
