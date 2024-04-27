@@ -107,7 +107,7 @@ the challenges that arise every day in the code. ✔😉
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,prisma,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,prisma,css&perline=17" />
   </a>
 </p>
 
