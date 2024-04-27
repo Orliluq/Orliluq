@@ -1,7 +1,7 @@
 <!-- title name -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&pause=1000&color=9924F7&center=true&repeat=false&random=true&width=435&lines=Hola+%F0%9F%91%8B+soy+Orli" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&pause=1000&color=9924F7&center=true&repeat=false&random=true&width=435&lines=Hi+%F0%9F%91%8B+i'm+Orli" alt="Typing SVG" /></a>
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -62,10 +62,6 @@ const Orliluq = {
 ```
 
 ## 🚀 About Me:
-    Soy Desarrolladora Full Stack
-  Soy Administradora y gerencio una compañía de Retail en mi país. En la comunidad Tech descubrí la motivación que no tenía 
-en mi profesión y decidí iniciar mi camino en el 2021 🤞 Me encanta programar 👩‍💻 y encontrarle soluciones viables a 
-los retos que se presentan día a día en el código.✔😉
 
     I'm Full Stack Developer
   I am an Administrator and manage a Retail company in my country. In the Tech community I discovered the motivation that I didn't have
@@ -91,13 +87,13 @@ the challenges that arise every day in the code. ✔😉
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
-- 🔭 Estoy trabajando en DLCA 💼 
-- 🌱 Estoy estudiando y emprendiendo con nuevos desafíos y retos ✍ 
-- 👯 Quiero colaborar con everyone 👍 
-- 🤔 Busco conectar con la tech Comunity ✌ 
-- 😄 Pronombres: she / her ... 🧙‍♀️ 
-- ⚡ Dato curioso: i love my red hair 😁👩‍🦰 
-- 📫 Cómo contactarme: Abajo estan mis coordenadas 👇
+- 🔭 I am working on DLCA 💼 
+- 🌱 I am studying and undertaking new challenges ✍ 
+- 👯 I want to collaborate with everyone 👍 
+- 🤔 I am looking to connect with the tech community ✌ 
+- 😄 Pronouns: she / her ... 🧙‍♀️ 
+- ⚡ Curious fact: i love my red hair 😁👩‍🦰 
+- 📫 How to contact me: Below are my coordinates 👇
 
 
 
@@ -111,7 +107,7 @@ the challenges that arise every day in the code. ✔😉
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,prisma,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,prisma,css&perline=7" />
   </a>
 </p>
 
@@ -145,4 +141,4 @@ the challenges that arise every day in the code. ✔😉
  
 
 
-** Hecho con 💜 { "OrliDev" } **
+** Made with 💜 { "OrliDev" } **
