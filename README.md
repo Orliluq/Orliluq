@@ -124,7 +124,7 @@ the challenges that arise every day in the code. ✔😉
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/orlidevs)
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/apps/318694)
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" /></div> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&cover_image=true&theme=default&show_offline=false&background_color=674e74&interchange=true&bar_color=53b14f&bar_color_cover=true)(https://spotify-github-profile.vercel.app/api/view?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&redirect=true)" /></div> 
 
 ## 👩‍💻 Others:
 
