@@ -64,8 +64,7 @@ const Orliluq = {
 
 ## 🚀 About Me:
 
-    I'm Full Stack Developer
-    I'm Digital Content Creator
+    Full Stack Developer & Digital Content Creator
   I am a Full Stack Developer with 2 years of experience & Digital Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <p align="center">    
