@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&pause=1000&color=C25DF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BC+Degree+in+Administration;console.log('Girl+Programming')"/></a><br>
+    <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B439D4E4&background=00000018&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%93%92+Digital+Content+Creator+%F0%9F%93%92;%F0%9F%92%BC+Graduate+in+Administration+%F0%9F%92%BC;%E2%9C%A8+console.log('Programming+Girl')+%E2%9C%A8)"/></a><br>
 </p>
 
 
@@ -65,9 +65,8 @@ const Orliluq = {
 ## 🚀 About Me:
 
     I'm Full Stack Developer
-  I am an Administrator and manage a Retail company in my country. In the Tech community I discovered the motivation that I didn't have
-in my profession and decided to start my path in 2021 🤞 I love programming 👩‍💻 and finding viable solutions to
-the challenges that arise every day in the code. ✔😉
+    I'm Digital Content Creator
+  I am a Full Stack Developer with 2 years of experience & Digital Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <p align="center">    
     <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
