@@ -83,6 +83,9 @@ const Orliluq = {
     <a href="https://portfolio-cards-theta.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
 </p>
 
+<p align="center">    
+    <a href="https://my-million-friend-blog.vercel.app/"><img alt="Blog" title="Blog Mi Millón de Amigos!" src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
+</p>
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
