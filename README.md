@@ -68,11 +68,11 @@ const Orliluq = {
   I am a Full Stack Developer with 2 years of experience & Digital Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <p align="center">  
-    <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=#c90076&logo=link-external"/></a>
+    <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=C90076&logo=link-external"/></a>
   </p>
 
 <p align="center">    
-    <a href="https://portfolio-js-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=#6aa84f&logo=link-external"/></a>
+    <a href="https://portfolio-js-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=6AA84F&logo=link-external"/></a>
 </p>
 
 <p align="center">    
@@ -80,11 +80,11 @@ const Orliluq = {
 </p>
 
 <p align="center">    
-    <a href="https://portfolio-cards-theta.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=#ea9999&logo=link-external"/></a>
+    <a href="https://portfolio-cards-theta.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=EA9999&logo=link-external"/></a>
 </p>
 
 <p align="center">    
-    <a href="https://my-million-friend-blog.vercel.app/"><img alt="Blog" title="Blog Mi Millón de Amigos!" src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=#3d85c6&logo=link-external"/></a>
+    <a href="https://my-million-friend-blog.vercel.app/"><img alt="Blog" title="Blog Mi Millón de Amigos!" src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=3D85C6&logo=link-external"/></a>
 </p>
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
