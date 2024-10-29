@@ -67,23 +67,23 @@ const Orliluq = {
     Full Stack Developer & Digital Content Creator
   I am a Full Stack Developer with 2 years of experience & Digital Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
-<p align="center">  
+<p style="display: inline-block;">  
     <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=C90076&logo=link-external"/></a>
   </p>
 
-<p align="center">    
+<p style="display: inline-block;">    
     <a href="https://portfolio-js-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=6AA84F&logo=link-external"/></a>
 </p>
 
-<p align="center">    
+<p style="display: inline-block;">    
     <a href="https://portfolio-creative-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
 </p>
 
-<p align="center">    
+<p style="display: inline-block;">    
     <a href="https://portfolio-cards-theta.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=EA9999&logo=link-external"/></a>
 </p>
 
-<p align="center">    
+<p style="display: inline-block;">    
     <a href="https://my-million-friend-blog.vercel.app/"><img alt="Blog" title="Blog Mi Millón de Amigos!" src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=3D85C6&logo=link-external"/></a>
 </p>
 
