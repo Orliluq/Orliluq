@@ -64,8 +64,8 @@ const Orliluq = {
 
 ## 🚀 About Me:
 
-    Full Stack Developer & Digital Content Creator
-  I am a Full Stack Developer with 2 years of experience & Digital Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
+    Full Stack Developer & Tech Content Creator
+  I am a Full Stack Developer with 2 years of experience & Tech Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <p align="center">  
     <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=C90076&logo=link-external"/></a>
