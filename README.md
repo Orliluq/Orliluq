@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c5e7775-ba5c-4d55-8c2e-a7e4983db91b" alt="Banner animado" width="800" height="200" />
+</p>
+</br>
 <!-- title name -->
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -14,76 +18,48 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/324bee05-1695-4ce1-892c-b48d5e0402a4" width="40%" height="40%" style="margin:auto;">
+  <img src="https://github.com/user-attachments/assets/324bee05-1695-4ce1-892c-b48d5e0402a4" width="30%" height="30%" style="margin:auto;">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
-</p>
-
-
-```javascript
-const Orliluq = {
-    pronouns: "She" | "Her",
-    technologies: {
-        frontEnd: {
-            html: []
-            css: []
-            js: ["React"]
-                ["Redux"]
-                ["Redux Toolkit"]
-                ["Tailwind CSS"]
-                ["Next.js"]
-                ["Sass"]
-                ["Bootstrap"]
-                ["Zustand"]
-                ["Angular"]
-                ["Vue"]
-                ["Astro"]
-                ["Nuxtjs"]
-                ["Typescript"],
-        },
-        backEnd: ["Node.js"]
-                 ["Express.js"]
-                 ["Java"]
-                 ["Spring Boot"]
-                 ["PHP"]
-                 ["Jest"]
-                 ["Swagger"]
-                 ["NestJs"]
-                 ["Python"],
-         },
-         bDD:    ["Sequelize"]
-                 ["PostgreSQL"]
-                 ["Prisma"]
-                 ["MySQL"],
-                 ["MongoDB"],
-                      
-         },
-
-    };
-```
 
 ## 🚀 About Me:
 
     Full Stack Developer & Tech Content Creator
   I am a Full Stack Developer with 2 years of experience & Tech Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
-<p align="center">  
-    <a href="https://portfolio-next-snowy-two.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=C90076&logo=link-external"/></a>
-  </p>
-<p align="center">    
-    <a href="https://portfolio-js-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=6AA84F&logo=link-external"/></a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;">
+
+  <a href="https://portfolio-next-snowy-two.vercel.app/">
+    <img alt="Portfolio" title="Portfolio NEXT" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF0080&color=black&labelColor=FF0080&logo=link-external"/>
+  </a>
+
+  <a href="https://portfolio-js-six.vercel.app/">
+    <img alt="Portfolio" title="Portfolio JS" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=00D8FF&color=black&labelColor=00D8FF&logo=link-external"/>
+  </a>
+
+  <a href="https://portfolio-creative-six.vercel.app/">
+    <img alt="Portfolio" title="Portfolio Creativo" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FFD700&color=black&labelColor=FFD700&logo=link-external"/>
+  </a>
+
+  <a href="https://portfolio-cards-theta.vercel.app/">
+    <img alt="Portfolio" title="Portfolio Cards" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF6347&color=black&labelColor=FF6347&logo=link-external"/>
+  </a>
+
+  <a href="https://my-million-friend-blog.vercel.app/">
+    <img alt="Blog" title="Blog Mi Millón de Amigos!" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=87CEEB&color=black&labelColor=87CEEB&logo=link-external"/>
+  </a>
+
+</div>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0Ym93aWxlcGp0N295OXJtYXB1b250ZmRjMHpwbGxqdTI0cXlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="40%" height="40%" style="margin:auto;">
 </p>
-<p align="center">    
-    <a href="https://portfolio-creative-six.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=F8D866&logo=link-external"/></a>
-</p>
-<p align="center">    
-    <a href="https://portfolio-cards-theta.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=EA9999&logo=link-external"/></a>
-</p>
-<p align="center">    
-    <a href="https://my-million-friend-blog.vercel.app/"><img alt="Blog" title="Blog Mi Millón de Amigos!" src="https://custom-icon-badges.demolab.com/badge/-|Blog-1F222E?style=for-the-badge&logoColor=3D85C6&logo=link-external"/></a>
-</p> 
+
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
@@ -95,7 +71,7 @@ const Orliluq = {
 - ⚡ Curious fact: i love my red hair 😁👩‍🦰 
 - 📫 How to contact me: Below are my coordinates 👇
 
-
+</br>
 
 ## ✔ GitHub (All Releases):
 
@@ -113,16 +89,39 @@ const Orliluq = {
 
 
 </details>
-
+</br>
 
 ## 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlibetdungonzalez)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/orlidun)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Orli#4493)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/orlidevs)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/orlidevs)
-[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23452236/orli)
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 2rem;">
+
+  <a href="https://www.linkedin.com/in/orlibetdungonzalez" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://twitter.com/orlidun" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="https://discordapp.com/users/Orli#4493" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://instagram.com/orlidevs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://linktr.ee/orlidevs" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/23452236/orli" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+
+</div>
+
+</br>
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&redirect=true(https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pgvc4glhjiw7yfprn6mfkmzkmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=a1369d)" /></div> 
 
@@ -139,6 +138,8 @@ const Orliluq = {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="40%" height="40%" style="margin:auto;">
+</p>
 
-
-** Made with 💜 { "OrliDev" } ✨ Code with heart — Create with soul ✨**
+** Made with 💜 { "Orli" } ✨ Code with heart — Create with soul ✨**
