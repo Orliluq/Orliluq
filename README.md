@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=orliluq&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=orliluq&color=blue" width="20%" height="20%" style="margin:auto;"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 
 ## ✔ GitHub (All Releases):
 
-<div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" /></div> 
+<div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" width="15%" height="15%" style="margin:auto;" /></div> 
 
 
 <details open> 
@@ -142,4 +142,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="40%" height="40%" style="margin:auto;">
 </p>
 
-** Made with 💜 { "Orli" } ✨ Code with heart — Create with soul ✨**
+<p align="center"><strong>✨ Made with 💜 { "Orli" } — Code with heart — Create with soul ✨</strong></p>
+
