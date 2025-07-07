@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/324bee05-1695-4ce1-892c-b48d5e0402a4" style="margin:auto;">
+  <img src="https://github.com/user-attachments/assets/324bee05-1695-4ce1-892c-b48d5e0402a4" width="auto" height="auto" style="margin:auto;">
 </p>
 
 
@@ -57,7 +57,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0Ym93aWxlcGp0N295OXJtYXB1b250ZmRjMHpwbGxqdTI0cXlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKAUwFIbFiKAyCrKjZ/giphy.gif" style="margin:auto;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0Ym93aWxlcGp0N295OXJtYXB1b250ZmRjMHpwbGxqdTI0cXlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="auto" height="auto" style="margin:auto;">
 </p>
 
 
@@ -139,7 +139,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" style="margin:auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="auto" height="auto" style="margin:auto;">
 </p>
 
 <p align="center"><strong>✨ Made with 💜 { "Orli" } — Code with heart — Create with soul ✨</strong></p>
