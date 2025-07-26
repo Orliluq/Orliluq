@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=B439D4E4&background=00000018&width=435&lines=+++++++++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;+++++%F0%9F%93%92+Tech+Content+Creator+%F0%9F%93%92;Graduate+in+Administration+%F0%9F%92%BC"/></a><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E44EF7&center=true&vCenter=true&width=435&lines=Cloud+%26+AI+Developer+OCI+Certified;Full+Stack+Developer;Tech+Content+Creator;Graduate+in+Administration"/></a><br>
 </p>
 
 
@@ -77,6 +77,32 @@
 
 <div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" width="15%" height="15%" style="margin:auto;" /></div> 
 
+## 🏅 Certifications
+<div align="center">
+<p>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E5E3128698D00BAD0CD7898DCAD1C29C6DCA63345811AD5EB0B3A33E046502E">
+    <img src="https://i.ibb.co/R4DxLtxd/data.png" width="100" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DBC22B281D14EC582E58A1F9DE05B54A5D15651D937CBF1C565FBC4564D09E1A">
+    <img src="https://i.ibb.co/xSVq0yP9/AI.png" width="100" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3BC3474EDE75B5FCBBBBDDC15ED95821ED0B01765D5D9E4001B74FE621B19BC2">
+    <img src="https://i.ibb.co/3yC2H2TB/OCI.png" width="100" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=99DCE418AAC80DB2524D638C06AFEAA29442128416411B25D383635A82BE36B1">
+    <img src="https://i.ibb.co/PvfgYgpg/erp.png" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/6b1610dd-b762-4501-8ee8-aa1c4fda159a">
+    <img src="https://i.ibb.co/ks0fqp8C/github-1.png" width="100" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66EA4EBFB98C92BF50F7C4FE8E0193F098B6931B6EF1DB9A5971A9E91A6CFA16">
+    <img src="https://i.ibb.co/5H9spSv/SUCESS.png" width="100" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E908E2CAEA9CCA398FE8845433E36A785B3E683A3374002F577AB71CAA772544">
+    <img src="https://i.ibb.co/q36tw1dm/HCM.png" width="100" />
+  </a>
+</p>
+</div>
 
 <details open> 
   <summary><h2><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Technical Skills:</h2></summary> 
