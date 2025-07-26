@@ -75,34 +75,35 @@
 
 ## ✔ GitHub (All Releases):
 
-<div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" width="15%" height="15%" style="margin:auto;" /></div> 
+<div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" width="17%" height="17%" style="margin:auto;" /></div> 
 
 ## 🏅 Certifications
 <div align="center">
 <p>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E5E3128698D00BAD0CD7898DCAD1C29C6DCA63345811AD5EB0B3A33E046502E">
-    <img src="https://i.ibb.co/R4DxLtxd/data.png" width="100" />
+    <img width="100" height="100" alt="data" src="https://github.com/user-attachments/assets/f4d99d4e-648d-44ea-b33d-49ba9f8165bb" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DBC22B281D14EC582E58A1F9DE05B54A5D15651D937CBF1C565FBC4564D09E1A">
-    <img src="https://i.ibb.co/xSVq0yP9/AI.png" width="100" />
+    <img width="100" height="100" alt="ai" src="https://github.com/user-attachments/assets/8ce4ca05-3c99-47c8-9730-8e79bc8129bb" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3BC3474EDE75B5FCBBBBDDC15ED95821ED0B01765D5D9E4001B74FE621B19BC2">
-    <img src="https://i.ibb.co/3yC2H2TB/OCI.png" width="100" />
+    <img width="100" height="100" alt="oci" src="https://github.com/user-attachments/assets/21727e76-bd85-4280-9821-3717ee995352" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=99DCE418AAC80DB2524D638C06AFEAA29442128416411B25D383635A82BE36B1">
-    <img src="https://i.ibb.co/PvfgYgpg/erp.png" width="100" />
+    <img width="100" height="100" alt="erp" src="https://github.com/user-attachments/assets/74aaae77-852e-4301-b0a5-ed68ecb8b84b" />
   </a>
   <a href="https://www.credly.com/badges/6b1610dd-b762-4501-8ee8-aa1c4fda159a">
     <img src="https://i.ibb.co/ks0fqp8C/github-1.png" width="100" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E908E2CAEA9CCA398FE8845433E36A785B3E683A3374002F577AB71CAA772544">
-    <img src="https://i.ibb.co/q36tw1dm/HCM.png" width="100" />
+    <img width="100" height="100" alt="hcm" src="https://github.com/user-attachments/assets/cf53eac7-a956-4852-b101-4ef675997ff1" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66EA4EBFB98C92BF50F7C4FE8E0193F098B6931B6EF1DB9A5971A9E91A6CFA16">
-    <img src="https://i.ibb.co/5H9spSv/SUCESS.png" width="100" />
+    <img width="120" height="120" alt="sucess" src="https://github.com/user-attachments/assets/19827f9b-0612-4c40-8b45-1641b648fab6" />
   </a>
 </p>
-</div>
+</div> 
+
 
 <details open> 
   <summary><h2><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Technical Skills:</h2></summary> 
