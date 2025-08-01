@@ -101,6 +101,12 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66EA4EBFB98C92BF50F7C4FE8E0193F098B6931B6EF1DB9A5971A9E91A6CFA16">
     <img width="120" height="120" alt="sucess" src="https://github.com/user-attachments/assets/19827f9b-0612-4c40-8b45-1641b648fab6" />
   </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=575CC8CC58166A5966F751D255351F837582DF3015FFAD6DF4D5B7C790A8AB31">
+    <img width="100" height="100" alt="cx" src="https://github.com/user-attachments/assets/b7f0ff46-3077-4bfa-98db-f921b12bdbf8" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=165EA8F44E51F0089819FF3D779CF1CD954C4660D6FA0CA897E36CB8F2333FEC">
+    <img width="100" height="100" alt="scm" src="https://github.com/user-attachments/assets/aeb01577-cbbd-4a22-9592-2b9f6b57c539" />
+  </a>
 </p>
 </div> 
 
