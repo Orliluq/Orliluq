@@ -107,6 +107,9 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=165EA8F44E51F0089819FF3D779CF1CD954C4660D6FA0CA897E36CB8F2333FEC">
     <img width="100" height="100" alt="scm" src="https://github.com/user-attachments/assets/aeb01577-cbbd-4a22-9592-2b9f6b57c539" />
   </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C67EF1D3E46BA4208557739D4C75E6D6F7852E668D9FFBBC03BBC189CB31C889">
+    <img width="100" height="100" alt="agent" src="https://github.com/user-attachments/assets/523d46f5-d008-43b5-a2c5-93bf4c08bb85" />
+  </a>
 </p>
 </div> 
 
