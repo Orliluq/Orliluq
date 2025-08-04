@@ -81,7 +81,7 @@
 <div align="center">
 <p>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E5E3128698D00BAD0CD7898DCAD1C29C6DCA63345811AD5EB0B3A33E046502E">
-    <img width="100" height="100" alt="data" src="https://github.com/user-attachments/assets/f4d99d4e-648d-44ea-b33d-49ba9f8165bb" />
+    <img width="95" height="95" alt="data" src="https://github.com/user-attachments/assets/f4d99d4e-648d-44ea-b33d-49ba9f8165bb" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DBC22B281D14EC582E58A1F9DE05B54A5D15651D937CBF1C565FBC4564D09E1A">
     <img width="100" height="100" alt="ai" src="https://github.com/user-attachments/assets/8ce4ca05-3c99-47c8-9730-8e79bc8129bb" />
@@ -108,7 +108,7 @@
     <img width="100" height="100" alt="scm" src="https://github.com/user-attachments/assets/aeb01577-cbbd-4a22-9592-2b9f6b57c539" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C67EF1D3E46BA4208557739D4C75E6D6F7852E668D9FFBBC03BBC189CB31C889">
-    <img width="100" height="100" alt="agent" src="https://github.com/user-attachments/assets/523d46f5-d008-43b5-a2c5-93bf4c08bb85" />
+    <img width="180" height="180" alt="agent" src="https://github.com/user-attachments/assets/523d46f5-d008-43b5-a2c5-93bf4c08bb85" />
   </a>
 </p>
 </div> 
