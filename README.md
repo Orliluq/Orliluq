@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E44EF7&center=true&vCenter=true&width=435&lines=Cloud+%26+AI+Developer+OCI+Certified;Full+Stack+Developer;Tech+Content+Creator;Graduate+in+Administration"/></a><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F736EC&center=true&width=435&lines=Full+Stack+Developer;Cloud+%26+AI+Certified;Tech+Content+Creator;Graduate+in+Administration"/></a><br>
 </p>
 
 
@@ -25,7 +25,7 @@
 ## 🚀 About Me:
 
     Cloud & AI Developer OCI Certified - Full Stack Developer & Tech Content Creator
-  I am a Cloud & AI Developer OCI Certified - Full Stack Developer with 2 years of experience & Tech Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
+  I am a Full Stack Developer - Cloud & AI OCI Certified with 2 years of experience & Tech Content Creator ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;">
 
