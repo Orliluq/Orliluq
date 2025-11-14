@@ -119,7 +119,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,express,redux,nextjs,eclipse,replit,vue,bash,spring,nestjs,figma,nuxtjs,mysql,angular,astro,bootstrap,py,postgres,jest,sequelize,postman,git,github,sass,php,react,tailwind,html,gitlab,prisma,mongodb,css&perline=17" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,angular,astro,tailwind,nextjs,vite,nuxtjs,sass,bootstrap,bun,nodejs,java,express,redux,azure,spring,nestjs,py,docker,postman,git,github,githubactions,hibernate,vscode,figma,idea,maven,bash,yarn,npm,vercel,gitlab,replit,jest,sequelize,prisma,mysql,postgres,mongodb&perline=15" />
   </a>
 </p>
 
