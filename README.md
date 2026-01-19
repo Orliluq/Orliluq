@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c5e7775-ba5c-4d55-8c2e-a7e4983db91b" alt="Banner animado" width="800" height="200" />
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/497ab552-9d4d-4c55-bb79-b8c0df3da634" />
 </p>
-</br>
+
 <!-- title name -->
 <p align="center">
     <a href="https://git.io/typing-svg">
