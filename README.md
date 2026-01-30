@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/324bee05-1695-4ce1-892c-b48d5e0402a4" width="300" height="auto" style="margin:auto;">
+  <img src="https://github.com/user-attachments/assets/b1218cfc-113b-4a83-ae54-04d5907dc12e" width="300" height="auto" style="margin:auto;">
 </div>
 
 
