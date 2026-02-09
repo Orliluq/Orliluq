@@ -73,6 +73,20 @@
 
 </br>
 
+## ⌨️ Codemotion Magazine:
+
+<div align="center">
+  <a href="https://www.codemotion.com/magazine/es/author/orli-dun/" target="_blank">
+    <img 
+      src="https://custom-icon-badges.demolab.com/badge/-Contributor-orange?logo=contributor%20%282%29"
+      width="17%"
+      height="17%"
+      style="margin:auto;"
+      alt="Contributor Codemotion"
+    />
+  </a>
+</div>
+
 ## ✔ GitHub (All Releases):
 
 <div align="center"><img src="https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat" width="17%" height="17%" style="margin:auto;" /></div> 
