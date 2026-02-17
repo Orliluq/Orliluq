@@ -177,9 +177,9 @@
 
 ## 👩‍💻 Others:
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight" /></div> 
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orliluq&show_icons=true&theme=tokyonight" /></div> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orliluq&layout=compact&theme=tokyonight" /></div>  -->
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=orliluq&theme=tokyonight" /></div> 
 
