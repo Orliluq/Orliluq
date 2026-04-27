@@ -95,34 +95,34 @@
 <div align="center">
 <p>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E5E3128698D00BAD0CD7898DCAD1C29C6DCA63345811AD5EB0B3A33E046502E">
-    <img width="95" height="95" alt="data" src="https://github.com/user-attachments/assets/f4d99d4e-648d-44ea-b33d-49ba9f8165bb" />
+    <img width="90" alt="data" src="https://github.com/user-attachments/assets/f4d99d4e-648d-44ea-b33d-49ba9f8165bb" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DBC22B281D14EC582E58A1F9DE05B54A5D15651D937CBF1C565FBC4564D09E1A">
-    <img width="100" height="100" alt="ai" src="https://github.com/user-attachments/assets/8ce4ca05-3c99-47c8-9730-8e79bc8129bb" />
+    <img width="95" alt="ai" src="https://github.com/user-attachments/assets/8ce4ca05-3c99-47c8-9730-8e79bc8129bb" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3BC3474EDE75B5FCBBBBDDC15ED95821ED0B01765D5D9E4001B74FE621B19BC2">
-    <img width="100" height="100" alt="oci" src="https://github.com/user-attachments/assets/21727e76-bd85-4280-9821-3717ee995352" />
+    <img width="100" alt="oci" src="https://github.com/user-attachments/assets/21727e76-bd85-4280-9821-3717ee995352" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=99DCE418AAC80DB2524D638C06AFEAA29442128416411B25D383635A82BE36B1">
-    <img width="100" height="100" alt="erp" src="https://github.com/user-attachments/assets/74aaae77-852e-4301-b0a5-ed68ecb8b84b" />
+    <img width="100" alt="erp" src="https://github.com/user-attachments/assets/74aaae77-852e-4301-b0a5-ed68ecb8b84b" />
   </a>
   <a href="https://www.credly.com/badges/6b1610dd-b762-4501-8ee8-aa1c4fda159a">
     <img src="https://i.ibb.co/ks0fqp8C/github-1.png" width="100" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E908E2CAEA9CCA398FE8845433E36A785B3E683A3374002F577AB71CAA772544">
-    <img width="100" height="100" alt="hcm" src="https://github.com/user-attachments/assets/cf53eac7-a956-4852-b101-4ef675997ff1" />
+    <img width="100" alt="hcm" src="https://github.com/user-attachments/assets/cf53eac7-a956-4852-b101-4ef675997ff1" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66EA4EBFB98C92BF50F7C4FE8E0193F098B6931B6EF1DB9A5971A9E91A6CFA16">
-    <img width="120" height="120" alt="sucess" src="https://github.com/user-attachments/assets/19827f9b-0612-4c40-8b45-1641b648fab6" />
+    <img width="120" alt="sucess" src="https://github.com/user-attachments/assets/19827f9b-0612-4c40-8b45-1641b648fab6" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=575CC8CC58166A5966F751D255351F837582DF3015FFAD6DF4D5B7C790A8AB31">
-    <img width="100" height="100" alt="cx" src="https://github.com/user-attachments/assets/b7f0ff46-3077-4bfa-98db-f921b12bdbf8" />
+    <img width="100" alt="cx" src="https://github.com/user-attachments/assets/b7f0ff46-3077-4bfa-98db-f921b12bdbf8" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=165EA8F44E51F0089819FF3D779CF1CD954C4660D6FA0CA897E36CB8F2333FEC">
-    <img width="100" height="100" alt="scm" src="https://github.com/user-attachments/assets/aeb01577-cbbd-4a22-9592-2b9f6b57c539" />
+    <img width="100" alt="scm" src="https://github.com/user-attachments/assets/aeb01577-cbbd-4a22-9592-2b9f6b57c539" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C67EF1D3E46BA4208557739D4C75E6D6F7852E668D9FFBBC03BBC189CB31C889">
-    <img width="180" height="180" alt="agent" src="https://github.com/user-attachments/assets/523d46f5-d008-43b5-a2c5-93bf4c08bb85" />
+    <img width="200" alt="agent" src="https://github.com/user-attachments/assets/523d46f5-d008-43b5-a2c5-93bf4c08bb85" />
   </a>
 </p>
 </div> 
