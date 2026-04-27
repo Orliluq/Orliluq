@@ -25,7 +25,7 @@
 ## 🚀 About Me:
 
     Full Stack Developer - Cloud & AI OCI Certified & Tech Content Creator - Community Leader
-  I am a Full Stack Developer - Cloud & AI OCI Certified with 3 years of experience & Tech Content Creator - Community Leader ✨ related to technology and software development; Furthermore, 💼 I have managed a Retail company in my country for more than 10 years. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
+  I am a Full Stack Developer - Cloud & AI OCI Certified with 3 years of experience & Tech Content Creator - Community Leader ✨ related to technology and software development; Furthermore, 💼 I currently serve as Community Manager. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;">
 
@@ -63,7 +63,7 @@
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
-- 🔭 I am working on DLCA 💼 
+- 🔭 I am working on Alura LATAM 💼 
 - 🌱 I'm studying Systems Engineering at UNA ✍ 
 - 👯 I want to collaborate with everyone 👍 
 - 🤔 I am looking to connect with the tech community ✌ 
