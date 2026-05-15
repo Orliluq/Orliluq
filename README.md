@@ -161,7 +161,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="https://linktr.ee/orlidevs" target="_blank">
+  <a href="https://linktr.ee/orli" target="_blank">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 
