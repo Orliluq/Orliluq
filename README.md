@@ -64,7 +64,7 @@
 
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
-- 🔭 I am working on Alura LATAM 💼 
+- 🔭 Working hard to achieve my dreams 💼 
 - 🌱 I'm studying Systems Engineering at UNA ✍ 
 - 👯 I want to collaborate with everyone 👍 
 - 🤔 I am looking to connect with the tech community ✌ 
