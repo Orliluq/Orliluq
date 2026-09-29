@@ -233,7 +233,7 @@ Cada contribución cuenta. Cada proyecto deja una pequeña huella, y algunas de 
 
 <p align="center">
   <img 
-    src="./profile-3d-contrib/profile-green-animate.svg" 
+    src="./profile-3d-contrib/profile-night-rainbow.svg" 
     alt="Orli's GitHub contribution activity"
     width="900"
   />
