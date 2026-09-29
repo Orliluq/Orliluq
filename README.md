@@ -227,5 +227,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="300" height="auto" style="margin:auto;">
 </div>
 
+## 🌱 Construyendo, aprendiendo y compartiendo
+
+Cada contribución cuenta. Cada proyecto deja una pequeña huella, y algunas de esas huellas terminan formando algo bastante bonito. ✨
+
+<p align="center">
+  <img 
+    src="./profile-3d-contrib/profile-green-animate.svg" 
+    alt="Orli's GitHub contribution activity"
+    width="900"
+  />
+</p>
+
 <p align="center"><strong>✨ Made with 💜 { "Orli" } — Code with heart — Create with soul ✨</strong></p>
 
