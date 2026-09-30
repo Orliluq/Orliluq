@@ -204,6 +204,16 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 
+  <a href="https://www.oracle.com/cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  </a>
+  <a href="https://www.alura.com.br/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?style=for-the-badge&logo=alura-white&logoColor=white" alt="Alura"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+
 </div>
 
 </br>
@@ -238,6 +248,10 @@ Cada contribución cuenta. Cada proyecto deja una pequeña huella, y algunas de 
     width="900"
   />
 </p>
-
+<p align="center">
+  <a href="https://buymeacoffee.com/orlidun">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
 <p align="center"><strong>✨ Made with 💜 { "Orli" } — Code with heart — Create with soul ✨</strong></p>
 
