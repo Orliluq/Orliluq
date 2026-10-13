@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5e6ab748-94d1-4ff7-9912-4f12594261a2" />
+  <img width="2032" height="774" alt="Espacio creativo con tecnología, plantas y alpacas" src="https://github.com/user-attachments/assets/7bb6ad17-d4ab-4ab8-a2e3-1bf50eac1b92" />
 </p>
 
 <!-- title name -->
