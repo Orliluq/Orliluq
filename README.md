@@ -184,16 +184,12 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
+   <a href="https://instagram.com/orlidevs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
   <a href="https://twitter.com/orlidun" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-
-  <a href="https://discordapp.com/users/Orli#4493" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <a href="https://instagram.com/orlidevs" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <a href="https://linktr.ee/orli" target="_blank">
@@ -203,15 +199,37 @@
   <a href="https://stackoverflow.com/users/23452236/orli" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-
-  <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
-  </a>
   <a href="https://www.alura.com.br/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?style=for-the-badge&logo=alura-white&logoColor=white" alt="Alura"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://www.oracle.com/cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  </a>
+
+  <a href="https://builder.aws.com/community/@orlidun" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+<br>
+</br>
+
+ <a href="https://www.youtube.com/@orlidun" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"/>
+  </a>
+  
+  <a href="https://orlidun.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium"/>
+   </a>
+
+  <a href="https://es.pinterest.com/orlidum/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+
+   <a href="https://www.tiktok.com/@orlidun" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+
+   <a href="https://substack.com/@orlidum" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" alt="Substack"/>
   </a>
 
 </div>
