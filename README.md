@@ -196,9 +196,9 @@
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 
-  <a href="https://stackoverflow.com/users/23452236/orli" target="_blank">
+<!--  <a href="https://stackoverflow.com/users/23452236/orli" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
+  </a> -->
   <a href="https://www.alura.com.br/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?style=for-the-badge&logo=alura-white&logoColor=white" alt="Alura"/>
   </a>
