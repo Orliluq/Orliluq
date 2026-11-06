@@ -97,6 +97,11 @@
 
 <table>
   <tr>
+    <td align="center" width="190">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66ED90FB7A59DA8ED466F8E9D2661A20A65CAB759C21274DA34ACEC4823EAA7F">
+        <img width="100" alt="multicloud" src="https://github.com/user-attachments/assets/46b3caec-0632-4a66-a5f4-661975695ce8" />
+      </a>
+    </td>
     <td align="center" width="110">
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A4C4504EC981AF25B8FE5A5D4E2754B1AD874D2EBA6BF51788BB095C9A3F9D37">
         <img width="90" alt="agentic" src="https://github.com/user-attachments/assets/a262acd7-5cf6-44e7-b00d-3a336fabac0a" />
