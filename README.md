@@ -25,7 +25,7 @@
 ## 🚀 About Me:
 
     Full Stack Developer - Cloud & AI OCI Certified & Tech Content Creator - Community Leader
-  I am a Full Stack Developer - Cloud & AI OCI Certified with 3 years of experience & Tech Content Creator - Community Leader ✨ related to technology and software development; Furthermore, 💼 I currently serve as Community Manager. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
+  I am a Full Stack Developer - Cloud & AI OCI Certified with 4 years of experience & Tech Content Creator - Community Leader ✨ related to technology and software development; Furthermore, 💼 I currently serve as Community Manager. ✨ My goal is to inspire and motivate people through my publications and articles, fostering a closer and more collaborative community. 👩‍💻 ✔😉
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;">
 
