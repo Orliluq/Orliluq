@@ -98,6 +98,11 @@
 <table>
   <tr>
     <td align="center" width="190">
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8D2D2F3F44ADA7364796C92CABB9E1ACE25577722911500E9F62552C607A2712">
+        <img width="100" alt="ai 2026" src="https://github.com/user-attachments/assets/5da3bb90-bbb8-405f-b58e-cc1df2a4838a" />
+      </a>
+    </td>
+    <td align="center" width="190">
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=66ED90FB7A59DA8ED466F8E9D2661A20A65CAB759C21274DA34ACEC4823EAA7F">
         <img width="100" alt="multicloud" src="https://github.com/user-attachments/assets/46b3caec-0632-4a66-a5f4-661975695ce8" />
       </a>
