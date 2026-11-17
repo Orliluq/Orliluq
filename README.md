@@ -98,6 +98,11 @@
 <table>
   <tr>
     <td align="center" width="190">
+      <a href="https://www.credly.com/badges/63ba6362-1793-4abf-8b32-1a9def289ce2">
+        <img width="100" alt="linux" src="https://github.com/user-attachments/assets/b89efa3b-3a02-478c-a688-1540a698a767" />
+      </a>
+    </td>
+    <td align="center" width="190">
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8D2D2F3F44ADA7364796C92CABB9E1ACE25577722911500E9F62552C607A2712">
         <img width="100" alt="ai 2026" src="https://github.com/user-attachments/assets/5da3bb90-bbb8-405f-b58e-cc1df2a4838a" />
       </a>
