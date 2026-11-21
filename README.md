@@ -34,21 +34,22 @@
          src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF0080&color=black&labelColor=FF0080&logo=link-external"/>
   </a>
 
-  <a href="https://portfolio-js-six.vercel.app/">
+<!-- title name 
+<a href="https://portfolio-js-six.vercel.app/">
     <img alt="Portfolio" title="Portfolio JS" 
          src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=00D8FF&color=black&labelColor=00D8FF&logo=link-external"/>
   </a>
-
-<!-- title name 
-  <a href="https://portfolio-cards-theta.vercel.app/">
-    <img alt="Portfolio" title="Portfolio Cards" 
-         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF6347&color=black&labelColor=FF6347&logo=link-external"/>
-  </a> -->
-
   <a href="https://portfolio-cards-theta.vercel.app/">
     <img alt="Portfolio" title="Portfolio Cards" 
          src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF6347&color=black&labelColor=FF6347&logo=link-external"/>
   </a> 
+  <a href="https://portfolio-cards-theta.vercel.app/">
+    <img alt="Portfolio" title="Portfolio Cards" 
+         src="https://custom-icon-badges.demolab.com/badge/-|Portfolio-1F222E?style=for-the-badge&logoColor=FF6347&color=black&labelColor=FF6347&logo=link-external"/>
+  </a> 
+  -->
+
+  
 
   <a href="https://my-million-friend-blog.vercel.app/">
     <img alt="Blog" title="Blog Mi Millón de Amigos!" 
